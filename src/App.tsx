@@ -7,7 +7,7 @@ function App() {
 	const [count, setCount] = useState(0);
 
 	const num1 = 0;
-	if (num1 == count) {
+	if (num1 === count) {
 		console.log('hola');
 	}
 
