@@ -19,6 +19,9 @@ devDependencies:
   '@commitlint/config-conventional':
     specifier: ^19.2.2
     version: 19.2.2
+  '@types/node':
+    specifier: ^20.12.7
+    version: 20.12.7
   '@types/react':
     specifier: ^18.2.66
     version: 18.2.79
