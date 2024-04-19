@@ -3,3 +3,4 @@ package-lock.json
 pnpm-lock.json
 node_modules
 dist
+vite.config.ts
