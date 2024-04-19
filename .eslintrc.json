@@ -14,6 +14,6 @@
         "no-implicit-coercion": "warn",
         "@typescript-eslint/no-explicit-any": "warn",
         "@typescript-eslint/no-duplicate-enum-values": "warn",
-        "@typecript-eslint/no-inferrable-types": "on"
+        "@typecript-eslint/no-inferrable-types": "off"
     }
 }
