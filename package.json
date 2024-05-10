@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "lint": "eslint \"*/**/*.{js,ts,tsx}\" --quiet --fix",
+    "lint": "eslint \"src/**/*.{js,ts,tsx}\" --quiet --fix",
     "preview": "vite preview",
     "prepare": "husky install"
   },
